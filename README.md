@@ -41,6 +41,29 @@ The [Google Cybersecurity Professional Certificate](https://www.coursera.org/pro
 **Scenario:** Develop a response plan for a ransomware incident affecting user data.  
 **Includes:** Containment strategy, communication plan, recovery steps.
 
+## Portfolio Projects Overview
+
+Welcome to my Google Cybersecurity Professional Certificate portfolio. Below you will find a collection of projects and exercises I completed during the program. Each project showcases practical skills and knowledge gained through hands-on activities and real-world scenarios.
+
+Click on any project title to view detailed documentation, reports, and reflections related to the specific activity.
+
+### Projects and Exercises
+
+- **[Project 0: Professional Statement](./Project-0_Professional-Statement/)**  
+  A personal professional statement outlining my cybersecurity career goals, motivations, and strengths. This foundational activity helped me articulate my passion and readiness for the field.
+
+- **[Project 1: Conduct a Security Audit](./Project-1_Security-Audit/)**  
+  A comprehensive security audit performed on a fictional organization, identifying key assets, vulnerabilities, and recommending risk mitigation strategies. This project highlights my ability to apply risk management concepts effectively.
+
+*More projects will be added here as I progress through the certificate.*
+
+---
+
+Feel free to explore each project folder for detailed reports, supporting documents, and extended reflections. This portfolio demonstrates my commitment to continuous learning and practical application in cybersecurity.
+
+© 2025 SUNAY SABRIEV
+
+
 ---
 
 ## 🧰 Tools & Skills Demonstrated
