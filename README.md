@@ -3,6 +3,15 @@
 Welcome to my cybersecurity portfolio, developed as part of the **Google Cybersecurity Professional Certificate**. This repository showcases a collection of hands-on labs, projects, and assessments aligned with core cybersecurity domains such as threat detection, incident response, risk assessment, and security operations.
 
 ---
+## 📁 Portfolio Overview
+
+Welcome to my Cybersecurity Portfolio, built during the Google Cybersecurity Professional Certificate journey.
+
+### 🎯 Google Cybersecurity Professional Certificate Progress
+
+`█████████░░░░░░░░` 59% Complete  
+Modules completed: **4 of 8**  
+🔄 Currently learning: *Module 5 — "Assets, Threats, and Vulnerabilities" (Section 3 of 4)*
 
 ## 📚 Certificate Overview
 
@@ -76,8 +85,13 @@ Feel free to explore each project folder for detailed reports, supporting docume
 
 ## 📄 Certificate Badge
 
-[![Google Cybersecurity Certificate](https://api.badgr.io/public/assertions/YOUR_BADGE_IMAGE)](https://www.credly.com)  
-> *(Replace with your actual badge or link)*
+## 📜 Certifications
+
+### 🏅 Certifications Showcase
+
+My complete collection of earned certificates (Google Cybersecurity, OPSWAT Academy, Digital Marketing, etc.) is available here:
+
+👉 **[Certificates Repository – Click to View](https://github.com/ssabriev/Professional-Certificates-Portfolio)**  
 
 ---
 
