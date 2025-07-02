@@ -67,7 +67,8 @@ Click on any project title to view detailed documentation, reports, and reflecti
 - **[Project 2: Use the NIST Cybersecurity Framework to Respond to a Security Incident](./Project-2_Security-Audit_DDoS%20attack%20Security%20Plan%20(NIST%20CSF)/)**  
   In this project, I applied the NIST Cybersecurity Framework to respond to a simulated cybersecurity incident. The activity demonstrates how I used the five core functions—Identify, Protect, Detect, Respond, and Recover—to assess and manage the situation. This exercise reflects a real-world approach to structured incident response and strategic risk mitigation.
 
-
+- **[Project 3: Analyze Network Layer Communication](./Project-3_Analyze_Network_Layer_Communication)**  
+  This project focuses on analyzing DNS and ICMP traffic using a network protocol analyzer. It demonstrates how security analysts use protocol-level data to identify potential threats and reinforce network defenses.
 
 *More projects will be added here as I progress through the certificate.*
 
