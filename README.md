@@ -70,6 +70,9 @@ Click on any project title to view detailed documentation, reports, and reflecti
 - **[Project 3: Analyze Network Layer Communication](./Project-3_Analyze_Network_Layer_Communication)**  
   This project focuses on analyzing DNS and ICMP traffic using a network protocol analyzer. It demonstrates how security analysts use protocol-level data to identify potential threats and reinforce network defenses.
 
+- **[Project 4: Analyze Network Attacks](./Project-4_Analyze_Network_Attacks)** – I investigated a simulated denial-of-service (DoS) incident by analyzing abnormal TCP SYN traffic using Wireshark. I identified the attack pattern, documented my findings, and created a formal Cybersecurity Incident Report outlining the nature of the attack, its impact, and recommended mitigation strategies.
+
+
 *More projects will be added here as I progress through the certificate.*
 
 ---
