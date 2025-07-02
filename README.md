@@ -64,6 +64,11 @@ Click on any project title to view detailed documentation, reports, and reflecti
 - **[Project 1: Conduct a Security Audit](./Project-1_Security-Audit/)**  
   A comprehensive security audit performed on a fictional organization, identifying key assets, vulnerabilities, and recommending risk mitigation strategies. This project highlights my ability to apply risk management concepts effectively.
 
+- **[Project 2: Use the NIST Cybersecurity Framework to Respond to a Security Incident](./Project-2_Security-Audit_DDoS%20attack%20Security%20Plan%20(NIST%20CSF)/)**  
+  In this project, I applied the NIST Cybersecurity Framework to respond to a simulated cybersecurity incident. The activity demonstrates how I used the five core functions—Identify, Protect, Detect, Respond, and Recover—to assess and manage the situation. This exercise reflects a real-world approach to structured incident response and strategic risk mitigation.
+
+
+
 *More projects will be added here as I progress through the certificate.*
 
 ---
