@@ -71,7 +71,12 @@ Click on any project title to view detailed documentation, reports, and reflecti
   This project focuses on analyzing DNS and ICMP traffic using a network protocol analyzer. It demonstrates how security analysts use protocol-level data to identify potential threats and reinforce network defenses.
 
 - **[Project 4: Analyze Network Attacks](./Project-4_Analyze_Network_Attacks)** – I investigated a simulated denial-of-service (DoS) incident by analyzing abnormal TCP SYN traffic using Wireshark. I identified the attack pattern, documented my findings, and created a formal Cybersecurity Incident Report outlining the nature of the attack, its impact, and recommended mitigation strategies.
+  
+- **[Project 5: Manage Authorization](Project-5_Manage_Authorization)**  
+Used Linux commands in the Bash shell to inspect and modify file and directory permissions. Practiced identifying incorrect access rights and applying proper permission settings to protect sensitive data and restrict unauthorized access.
 
+- **[Project 6: Apply Filters to SQL Queries](Project-6_Apply_filters%20_to_%20SQL_queries)**  
+Used SQL to investigate login anomalies and employee activity by filtering datasets with `AND`, `OR`, `NOT`, and `LIKE` operators. Queried failed logins after hours, isolated suspicious access outside of Mexico, and retrieved records based on department and location. Practiced data-driven incident investigation using realistic scenarios.
 
 *More projects will be added here as I progress through the certificate.*
 
