@@ -1,4 +1,4 @@
-# 📊 Project 7: Score Risks Based on Their Likelihood and Severity
+# 📊 Portfolio Activity: Score Risks Based on Their Likelihood and Severity
 
 ## 📝 Overview
 
