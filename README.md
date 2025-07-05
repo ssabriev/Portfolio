@@ -78,6 +78,9 @@ Used Linux commands in the Bash shell to inspect and modify file and directory p
 - **[Project 6: Apply Filters to SQL Queries](Project-6_Apply_filters%20_to_%20SQL_queries)**  
 Used SQL to investigate login anomalies and employee activity by filtering datasets with `AND`, `OR`, `NOT`, and `LIKE` operators. Queried failed logins after hours, isolated suspicious access outside of Mexico, and retrieved records based on department and location. Practiced data-driven incident investigation using realistic scenarios.
 
+- **[Project-7_Score_Risks_Likelihood_Severity](Project-7_Score_Risks_Likelihood_Severity)**: Performed a qualitative risk assessment based on NIST SP 800-30 Rev. 1. Identified and scored key threats, then recommended mitigations including MFA, AAA, PoLP, and defense-in-depth strategies.
+
+
 *More projects will be added here as I progress through the certificate.*
 
 ---
