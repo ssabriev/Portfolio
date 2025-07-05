@@ -43,3 +43,5 @@ These suggestions help ensure layered security and stronger access boundaries.
 This project demonstrated how to apply cybersecurity risk assessment principles in practice. I learned to **think strategically** about risks, **communicate vulnerabilities**, and **recommend controls** that align with both **technical priorities** and **organizational goals**.
 
 ---
+
+© 2025 SUNAY SABRIEV
