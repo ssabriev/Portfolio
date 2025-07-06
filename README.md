@@ -85,6 +85,7 @@ Used SQL to investigate login anomalies and employee activity by filtering datas
 - **[Project-9_Determine_Appropriate_Data_Handling_Practices](./Project-9_Determine_Appropriate_Data_Handling_Practices):** An analysis was conducted of a data breach incident caused by a failure to adhere to the principle of least privilege. Existing controls under **[NIST SP 800-53 AC-6](https://csf.tools/reference/nist-sp-800-53/r5/ac/ac-6)** were evaluated, gaps were identified, and improvements were proposed to ensure more secure handling of sensitive information within the organization.
 
 - **[Project X: Improve Authentication, Authorization, and Accounting for a Small Business](Project-X-Project-X-Access-Control-AAA):** In this activity, I investigated a payroll incident involving unauthorized account access within a small business. I analyzed event logs, identified issues with shared access and missing deprovisioning, and proposed mitigations such as enforcing unique credentials and role-based access. The project applies the AAA framework (Authentication, Authorization, and Accounting) to strengthen access control and reduce future risk.
+.
 
 
 *More projects will be added here as I progress through the certificate.*
