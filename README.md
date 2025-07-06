@@ -82,7 +82,7 @@ Used SQL to investigate login anomalies and employee activity by filtering datas
   
 - **[Project-8_Classify_Assets_Home_Network](Project-8_Classify_the_Assets_Connected_to_a_Home_Network)**: Created an asset inventory for a home business network. Classified devices by sensitivity and risk exposure based on network access, ownership, and location to support effective asset management.
 
-
+- **[Project-9_Determine_Appropriate_Data_Handling_Practices](./Project-9_Determine_Appropriate_Data_Handling_Practices):** An analysis was conducted of a data breach incident caused by a failure to adhere to the principle of least privilege. Existing controls under **[NIST SP 800-53 AC-6](https://csf.tools/reference/nist-sp-800-53/r5/ac/ac-6)** were evaluated, gaps were identified, and improvements were proposed to ensure more secure handling of sensitive information within the organization.
 
 *More projects will be added here as I progress through the certificate.*
 
