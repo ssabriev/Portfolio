@@ -79,6 +79,9 @@ Used Linux commands in the Bash shell to inspect and modify file and directory p
 Used SQL to investigate login anomalies and employee activity by filtering datasets with `AND`, `OR`, `NOT`, and `LIKE` operators. Queried failed logins after hours, isolated suspicious access outside of Mexico, and retrieved records based on department and location. Practiced data-driven incident investigation using realistic scenarios.
 
 - **[Project-7_Score_Risks_Likelihood_Severity](Project-7_Score_Risks_Likelihood_Severity)**: Performed a qualitative risk assessment based on NIST SP 800-30 Rev. 1. Identified and scored key threats, then recommended mitigations including MFA, AAA, PoLP, and defense-in-depth strategies.
+  
+- **[Project-8_Classify_Assets_Home_Network](Project-8_Classify_the_Assets_Connected_to_a_Home_Network)**: Created an asset inventory for a home business network. Classified devices by sensitivity and risk exposure based on network access, ownership, and location to support effective asset management.
+
 
 
 *More projects will be added here as I progress through the certificate.*
