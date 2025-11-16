@@ -11,6 +11,7 @@ Welcome to my Cybersecurity Portfolio, built during the Google Cybersecurity Pro
 
 ██████████████░░░ 66.7% Complete
 Modules completed: 6 of 9
+
 🔄 Currently learning: Module 7 — „Automate Cybersecurity Tasks with Python″
 
 ## 📚 Certificate Overview
