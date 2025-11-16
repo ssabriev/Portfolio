@@ -9,9 +9,9 @@ Welcome to my Cybersecurity Portfolio, built during the Google Cybersecurity Pro
 
 ### 🎯 Google Cybersecurity Professional Certificate Progress
 
-█████████████░░░░░░ 64% Complete 
-Modules completed: **5 of 9**  
-🔄 Currently learning: *Module 6 — "Sound the Alarm: Detection and Response" (Section 3 of 4)*
+██████████████░░░ 66.7% Complete
+Modules completed: 6 of 9
+🔄 Currently learning: Module 7 — „Automate Cybersecurity Tasks with Python″
 
 ## 📚 Certificate Overview
 
